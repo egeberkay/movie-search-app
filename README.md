@@ -1,4 +1,4 @@
-Markdown
+
 # 🎬 Movie Search App
 
 A modern, responsive movie browsing and search web application built with **React**, **Vite**, and **Appwrite**. Users can search for movies in real-time, view movie details, and track trending searches.
@@ -23,6 +23,8 @@ A modern, responsive movie browsing and search web application built with **Reac
 - **Linting & Code Quality:** ESLint
 
 ---
+
+<img width="1842" height="891" alt="image" src="https://github.com/user-attachments/assets/0425b5f3-fab4-4234-90e8-1cae1bdd4fd0" />
 
 
 🚀 Getting Started
